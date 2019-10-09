@@ -1,0 +1,15 @@
+D:\Visual Studio\TwitchSaltier\TwitchSaltier\bin\Debug\TwitchSaltier.exe.config
+D:\Visual Studio\TwitchSaltier\TwitchSaltier\bin\Debug\TwitchSaltier.exe
+D:\Visual Studio\TwitchSaltier\TwitchSaltier\bin\Debug\TwitchSaltier.pdb
+D:\Visual Studio\TwitchSaltier\TwitchSaltier\obj\Debug\TwitchSaltier.csprojAssemblyReference.cache
+D:\Visual Studio\TwitchSaltier\TwitchSaltier\obj\Debug\MainWindow.g.cs
+D:\Visual Studio\TwitchSaltier\TwitchSaltier\obj\Debug\App.g.cs
+D:\Visual Studio\TwitchSaltier\TwitchSaltier\obj\Debug\TwitchSaltier_MarkupCompile.cache
+D:\Visual Studio\TwitchSaltier\TwitchSaltier\obj\Debug\TwitchSaltier_MarkupCompile.lref
+D:\Visual Studio\TwitchSaltier\TwitchSaltier\obj\Debug\MainWindow.baml
+D:\Visual Studio\TwitchSaltier\TwitchSaltier\obj\Debug\TwitchSaltier.g.resources
+D:\Visual Studio\TwitchSaltier\TwitchSaltier\obj\Debug\TwitchSaltier.Properties.Resources.resources
+D:\Visual Studio\TwitchSaltier\TwitchSaltier\obj\Debug\TwitchSaltier.csproj.GenerateResource.cache
+D:\Visual Studio\TwitchSaltier\TwitchSaltier\obj\Debug\TwitchSaltier.csproj.CoreCompileInputs.cache
+D:\Visual Studio\TwitchSaltier\TwitchSaltier\obj\Debug\TwitchSaltier.exe
+D:\Visual Studio\TwitchSaltier\TwitchSaltier\obj\Debug\TwitchSaltier.pdb
