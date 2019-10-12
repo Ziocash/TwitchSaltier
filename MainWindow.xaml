@@ -19,7 +19,16 @@
             <Image Source="Resources/TwitchExtrudedWordmarkPurple.png" Margin="10"/>
         </Grid>
         <Grid Grid.Column="1" Grid.Row="0">
-            
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="Auto"/>
+                <ColumnDefinition Width="*"/>
+            </Grid.ColumnDefinitions>
+            <TextBlock Text="Fadeout time" VerticalAlignment="Center" Grid.Column="0"/>
+            <ComboBox Name="cmbTimer" Margin="10,0,10,0" VerticalAlignment="Center" Grid.Column="1" SelectionChanged="ComboBox_SelectionChanged">
+                <ComboBoxItem Content="3"/>
+                <ComboBoxItem Content="5"/>
+                <ComboBoxItem Content="10" />
+            </ComboBox>
         </Grid>
         <Grid Grid.Column="0" Grid.Row="1">
             <TextBlock x:Name="txbLogger" Margin="10"/>
