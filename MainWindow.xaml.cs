@@ -59,6 +59,7 @@ namespace TwitchSaltier
             ComboBoxItem value = (ComboBoxItem)cmbTimer.Items[cmbTimer.SelectedIndex];
             Settings.Default.TimerInterval = TimeSpan.FromSeconds(int.Parse(value.Content.ToString()));
             Settings.Default.Save();
+            timer.Interval = Settings.Default.TimerInterval;
         }
     }
 }
