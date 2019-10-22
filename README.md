@@ -1,3 +1,5 @@
+[![Downloads](https://img.shields.io/github/downloads/Ziocash/TwitchSaltier/total?color=00ff06)](https://github.com/Ziocash/TwitchSaltier/releases)
+
 # TwitchSaltier
  A desktop tool for "spam" some salt in your favourite livestreams
 
